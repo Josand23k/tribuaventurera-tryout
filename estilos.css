@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*-- Link de Google fonts --*/
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+:root {
+    /*-- Colores azul turquesa --*/
+    --azul-primario: rgb(57, 194, 201);
+    --azul-Secundario: rgb(5, 79, 79);
+    --azul-brillante: rgb(175, 251, 255);
+
+    /*-- Colores alternativos --*/
+    --clr-dorado: rgb(198, 156, 109);
+    --clr-rojo: rgb(163, 52, 52);
+    --clr-claro: rgb(215, 215, 215);
+    --clr-oscuro: rgb(46, 46, 46);
+    
+    /*-- Fonts --*/
+    --ff-primario: 'Georgia', cursive;
+    --ff-Secundario: 'Banger'; 
+}
